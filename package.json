@@ -1,12 +1,12 @@
 {
-    "name": "conflictura",
-    "preductname": "Conflictura Launcher",
+    "name": "GloryUnion",
+    "preductname": "GloryUnion Launcher",
     "version": "3.2.9",
-    "description": "Conflictura modded server launcher",
+    "description": "Launcher Officiel de GloryUnion",
     "main": "src/app.js",
-    "author": "Riptiaz/Boulldogo/Vexato/Luuxis",
+    "author": "Riptiaz/Boulldogo/Vexato/Luuxis/Minegame499",
     "env": "azuriom",
-    "settings": "https://conflictura.eu",
+    "settings": "launcher.gloryunion.websr.fr",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "build": "node build.js --obf=true --build=platform",
